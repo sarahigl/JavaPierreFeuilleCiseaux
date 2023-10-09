@@ -1,2 +1,2 @@
 # JavaPierreFeuilleCiseaux
-Jeu simple exercice fondamentale java
+Jeu simple exercice fondamentales java
